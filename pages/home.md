@@ -1,15 +1,18 @@
 ---
 layout: home
 #title: EU EFRE collaborative research project 
-title: ENABLING 
-subtitle: ERDF research project 
+title: Pain Recognition 
+#subtitle: ERDF research project 
 
-description: "Resilient Human-Robot Collaboration in Mixed-Skill Environments"
-background: /assets/theme/images/header-img.jpg
+description: "Collaborative DFG research projects in the area of pain intensity detection"
+background: /assets/theme/images/header-img.png
 permalink: /
 ---
-# ENABLING
-**ENABLING (*Resilient Human-Robot Collaboration in Mixed-Skill Environments*)** addresses the problem area of developing AI methods to complement the skills of robots and humans. It thus enables research innovations in cross-sectional areas of IT and key enabling technologies and forms the basis for future applications in the lead markets. The challenges lie, firstly, at the interface between robotics and AI and, secondly, in the complexity of tasks in a mixed-skill environment and, thirdly, in resilient and responsible collaboration. These are to be achieved by developing the key technologies for 1. robust recording of the affective user state, 2. semantic environment analysis, 3. intention-based interpretation of user actions, 4. and research into generative models for recording complex behavior in mixed-skill environments.
+# THIS WEBSITE A WORK IN PROGRESS
+# Multi-model AI-based Pain Detection
+The AI-based pain detection at NIT consits of two DFG funded research projects. These two projects focus on developing and testing AI-based methods to reliably detect pain in humans. Thus, the first project aims at using the knowlegde from our previous projects, which resulted in the creation of the pain databases BioVid and X-ITE, to develop a reliable, robust and effective pain detection system based on all available modalities. These modalities range from physiological bio-signals such as ECG, Skin activity ,and muscle activiy to video based methods of the face or the body. 
 
+The second research project focuses then on transfering the developed solutions from the laboratory enviornments of BioVid and X-ITE to real world settings. For this purpose, the project aims to create a new dataset from real patient after abdominal surgery in the intermediate care unit of the university hospital ulm. This dataset allows to verify and transfer the AI models to real world settings. 
 
-The project is funded by the European Regional Development Fund (ERDF) under grant No. ZS/2023/12/182056 and is planned with a project duration of 4 years (2024 to 2027).
+The projects are supported by the DFG with the grants Pain analysis Nr. AL 638/20-1 and AL 638/19-1 until 2027.
+
