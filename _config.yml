@@ -43,6 +43,7 @@ exclude:
   - package.json
   - jekyll-theme-petridish.gemspec
   - CITATION.cff
+  - [vendor]
 
 # FRONTMATTER DEFAULTS
 defaults:
