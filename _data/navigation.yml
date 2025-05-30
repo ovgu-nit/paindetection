@@ -5,7 +5,7 @@
 - text: Projects 
   menu:
   - text: IMC Datset
-    href: /docs/project_IMC/
+    href: /docs/installation/
   - text: Multi Modal AI Model 
     href: /docs/project_MM/
 - text: Team
