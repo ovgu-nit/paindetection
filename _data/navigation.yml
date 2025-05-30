@@ -2,11 +2,12 @@
 
 - text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
   href: /
-- text: "---" # Project
-- text: "Projects" 
-- text: IMC Datset
-- text: Multi Modal AI Model 
-  href: /project/
+- text: Projects 
+  menu:
+  - text: IMC Datset
+    href: /projects/project_IMC
+  - text: Multi Modal AI Model 
+    href: /projects/project_MM
 - text: Team
   href: /team/
 - text: Publications
