@@ -1,23 +1,50 @@
 ---
-title: ENABLING
-description: "Resilient Human-Robot Collaboration in Mixed-Skill Environments"
-background: /assets/theme/images/header-img.jpg
-permalink: /project/
+title: Installation
+description: How to start your website and use Petridish.
+background:
+  img: https://images.unsplash.com/photo-1609456878306-592aa2bc0eed?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTJ8fGJpcmRzfGVufDB8MHwwfHw%3D&auto=format&fit=crop&crop=top&w=1200&h=600&q=80
+  by: William Foley
+  href: https://unsplash.com/photos/EysCLgycVgc
+permalink: /docs/installation/
+toc: true
+# tags: [tags are reserved for posts so this one will not show up]
 ---
 
-{: .alert .alert-warning}
- 
-![image](/enabling/assets/theme/images/project_img.jpg)
+## Create a site from scratch (recommended)
 
-## Test_IMC
+This method creates a clean repository without unnecessary files. You can then **add** more content and settings.
 
-Resilient and collaborative robotic systems are a key technology in flexible intelligent production, logistics and medicine, which can lead to closely interlinked and potential-oriented cooperation with humans in the sense of complementary skills, but can also be used to substitute tasks and skills. The ENABLING project addresses the problem area of developing AI methods to complement the skills of robots and humans. It thus enables research innovations in the cross-sectional areas of IT and key enabling technologies and forms the basis for future applications in a mixed-skill environment in the lead markets. These include (1) cooperation between humans and robots in production or logistics and (2) monitoring applications in medicine, (3) intelligent assistance for preventive healthcare and therapies. The zones for interaction between humans and mobile robotic systems form complex mixed-skill environments. This is where intelligent, resilient collaboration becomes crucial, but is subject to strict requirements in terms of efficiency and safety measures as well as trustworthiness and acceptance. 
+1. Follow the [GitHub Pages instructions](https://pages.github.com/) to create a website on GitHub (select `Project site` and `Choose a theme`).
+2. Go to `_config.yml` in your repository and replace `theme: ...` with:
 
-## Goals
+    ```yml
+    remote_theme: peterdesmet/petridish@3.1
+    ```
 
-ENABLING is characterized by an innovative approach to a known problem of robotic systems using AI methods. The aim is to develop a resilient hybrid system with two application examples of the production cell and automatic gaze diagnostics as an assistance system that relieves workers and medical professionals of routine tasks. These applications demonstrate complex mixed-skill environments. There is no known competitor product and existing systems are only suitable for limited applications and cannot be used directly. The objectives of ENABLING can be extended to a wide range of applications, e.g. in logistics or for monitoring systems to record a variety of health conditions (robot assistance as a companion for people suffering from dementia in everyday situations).
+3. Check your site at `http://username.github.io/repository` (give it a minute to rebuild).
+4. See [configuration]({{ '/docs/configuration/' | relative_url }}) to add more elements to your site.
 
- The project is funded by the European Regional Development Fund (ERDF) under grant No. ZS/2023/12/182056 and is planned with a project duration of 4 years (2024 to 2027).
+## Create a site from the Petridish repository
 
- 
-![image](/enabling/assets/theme/images/eu_kofinanziert380x55.jpg)
+This method gives you a copy of the Petridish repository and website. You can then **update** content and settings, and **remove** all the files you don't need.
+
+1. Go to the [Petridish repository](https://github.com/peterdesmet/petridish/) and click the green button `Use this template`. Give your repository a name and description (can be changed later).
+2. Go to your repository settings and enable GitHub Pages (`http://github.com/username/repository/settings/pages`). Use the `main` branch as source.
+3. Check your site at `http://username.github.io/repository` (give it a minute to build).
+4. See [configuration]({{ '/docs/configuration/' | relative_url }}) to update elements of your site.
+5. Since you copied the Petridish repository, the theme is verbosely included. If you opt to make use of the `remote_theme` option described above, you can safely remove:
+
+    ```
+    _includes/
+    _layouts/
+    _sass/
+    assets/theme/
+    package-lock.json
+    package.json
+    petridish.gemspec
+    screenshot.png
+    ```
+
+## Install Petridish as gem-based theme
+
+If you do not what to use `remote_theme`, see the [Jekyll documentation](https://jekyllrb.com/docs/themes/#understanding-gem-based-themes) to install (gem-based) themes.
