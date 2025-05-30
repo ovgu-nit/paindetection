@@ -5,9 +5,9 @@
 - text: Projects 
   menu:
   - text: IMC Datset
-    href: /projects/project_IMC
+    href: /projects/project_IMC/
   - text: Multi Modal AI Model 
-    href: /projects/project_MM
+    href: /projects/project_MM/
 - text: Team
   href: /team/
 - text: Publications
