@@ -5,9 +5,9 @@
 - text: Projects 
   menu:
   - text: IMC Datset
-    href: /project_IMC/
+    href: /docs/project_IMC/
   - text: Multi Modal AI Model 
-    href: /projects/project_MM/
+    href: /docs/project_MM/
 - text: Team
   href: /team/
 - text: Publications
@@ -15,15 +15,4 @@
 - text: News
   href: /blog/
 - text: Documentation
-  menu: # Dropdown menu (one level deep only)
-  - text: Installation
-    href: /docs/installation/
-  - text: Configuration
-    href: /configuration/
-  - text: Markdown
-    href: /markdown/
-  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: "Dropdown header" # Title for block of menu items
-  - text: External link to GitHub
-    href: https://github.com/peterdesmet/petridish/
-    new_window: true
+  
