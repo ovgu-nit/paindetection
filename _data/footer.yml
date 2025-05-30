@@ -8,16 +8,16 @@ columns:
     - text: "apl. Prof. Dr.-Ing. habil. Ayoub Al-Hamadi"
       href: https://www.ovgu.de/Al_Hamadi.html
       new_window: true
-    - text: "Prof. Dr. rer. nat. Andreas Wendemuth"
-      href: https://www.ovgu.de/Wendemuth.html
+    - text: "Prof. Dr. biol. hum. Steffen Walter"
+      href: https://www.uniklinik-ulm.de/psychosomatische-medizin-und-psychotherapie/forschung-sic/medizinische-psychologie/team/steffen-walter-1.html
       new_window: true
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
-      The project is funded by the European Regional Development Fund (ERDF) under grant No. ZS/2023/12/182056 and is planned with a project duration of 4 years (2024 to 2027).
+      The projects is funded by the German Research Foundation (DFG) with the grants Pain analysis Nr. AL 638/20-1 and AL 638/19-1 until 2027.
     links:
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
 license: >
   Content on this site is licensed under a [CC BY 4.0 License](http://creativecommons.org/licenses/by/4.0/).
-  \| Theme: [Petridish](https://github.com/peterdesmet/petridish)
+  \| Theme: [Petridish](https://github.com/peterdesmet/petridish) | Header image © 2025 Medizinische Psychologie, Uni Ulm
