@@ -2,14 +2,14 @@
 title: ENABLING
 description: "Resilient Human-Robot Collaboration in Mixed-Skill Environments"
 background: /assets/theme/images/header-img.jpg
-permalink: /project/
+permalink: /projects/project_IMC/
 ---
 
 {: .alert .alert-warning}
  
 ![image](/enabling/assets/theme/images/project_img.jpg)
 
-## Motivation
+## Test_IMC
 
 Resilient and collaborative robotic systems are a key technology in flexible intelligent production, logistics and medicine, which can lead to closely interlinked and potential-oriented cooperation with humans in the sense of complementary skills, but can also be used to substitute tasks and skills. The ENABLING project addresses the problem area of developing AI methods to complement the skills of robots and humans. It thus enables research innovations in the cross-sectional areas of IT and key enabling technologies and forms the basis for future applications in a mixed-skill environment in the lead markets. These include (1) cooperation between humans and robots in production or logistics and (2) monitoring applications in medicine, (3) intelligent assistance for preventive healthcare and therapies. The zones for interaction between humans and mobile robotic systems form complex mixed-skill environments. This is where intelligent, resilient collaboration becomes crucial, but is subject to strict requirements in terms of efficiency and safety measures as well as trustworthiness and acceptance. 
 
