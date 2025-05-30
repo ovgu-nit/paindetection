@@ -17,7 +17,7 @@
 - text: Documentation
   menu: # Dropdown menu (one level deep only)
   - text: Installation
-    href: /installation/
+    href: /docs/installation/
   - text: Configuration
     href: /configuration/
   - text: Markdown
