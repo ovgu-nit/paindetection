@@ -1,23 +1,22 @@
 ---
-title: ENABLING
-description: "Resilient Human-Robot Collaboration in Mixed-Skill Environments"
-background: /assets/theme/images/header-img.jpg
+title: Postoperative IMC
+description: "Multimodale KI-basierte Schmerzmessung bei Intermediate Care Patienten in der postoperativen Phase"
+background: /assets/theme/images/header-img.png
 permalink: /projects/project_IMC/
 ---
 
 {: .alert .alert-warning}
  
-![image](/enabling/assets/theme/images/project_img.jpg)
+![image](/paindetection_nit/assets/theme/images/flowchart_imc_pain_project.png)
 
-## Test_IMC
-
-Resilient and collaborative robotic systems are a key technology in flexible intelligent production, logistics and medicine, which can lead to closely interlinked and potential-oriented cooperation with humans in the sense of complementary skills, but can also be used to substitute tasks and skills. The ENABLING project addresses the problem area of developing AI methods to complement the skills of robots and humans. It thus enables research innovations in the cross-sectional areas of IT and key enabling technologies and forms the basis for future applications in a mixed-skill environment in the lead markets. These include (1) cooperation between humans and robots in production or logistics and (2) monitoring applications in medicine, (3) intelligent assistance for preventive healthcare and therapies. The zones for interaction between humans and mobile robotic systems form complex mixed-skill environments. This is where intelligent, resilient collaboration becomes crucial, but is subject to strict requirements in terms of efficiency and safety measures as well as trustworthiness and acceptance. 
+## Motivation
+Previous projects at the NIT research group resulted in advacements in the area of pain monitoring through the creation of the datasets BioVid and X-ITE. These datasets are recorded in a laboratory environment with healthy patients that are fully oriented. This however may lead to a reality gap when AI-based models are trained on these and then applied to real world settings. Additionally, since the effecxtive communication is alredy problematic with fully oriented patients, the problem gets even more severe with not fully oriented or non communicative patients. These patients can then include sleeping or comatose patients but also patients with mental impairments such as alzheimers. Thus, it is imperitive to include such patients as a focus group to guarantee that the pain monitoring system still work reliable and robust on even these groups. 
 
 ## Goals
 
-ENABLING is characterized by an innovative approach to a known problem of robotic systems using AI methods. The aim is to develop a resilient hybrid system with two application examples of the production cell and automatic gaze diagnostics as an assistance system that relieves workers and medical professionals of routine tasks. These applications demonstrate complex mixed-skill environments. There is no known competitor product and existing systems are only suitable for limited applications and cannot be used directly. The objectives of ENABLING can be extended to a wide range of applications, e.g. in logistics or for monitoring systems to record a variety of health conditions (robot assistance as a companion for people suffering from dementia in everyday situations).
+The research project consits of three major steps. First a new database has to be created that is based on a real world scenario. For this purpose a recording rig was set up in the intermediate care unit of the university hospital in Ulm, Germany. Since September 2024 pateints, that are in the immediate recovery after abdominal surgery, are recorded for a duration of 24 hours, caputuring a video of the face as well bio-signals. This dataset should then be used to verify all developed AI-based models, if they perform reliably enough in such a real world scenario. In a second recording block, the focus shall be soley on not fully oriented and non communicative patients. 
 
- The project is funded by the European Regional Development Fund (ERDF) under grant No. ZS/2023/12/182056 and is planned with a project duration of 4 years (2024 to 2027).
+
 
  
 ![image](/enabling/assets/theme/images/eu_kofinanziert380x55.jpg)
