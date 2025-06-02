@@ -1,7 +1,7 @@
 ---
-title: ENABLING
-description: "Resilient Human-Robot Collaboration in Mixed-Skill Environments"
-background: /assets/theme/images/header-img.jpg
+title: Multi modal AI based pain detection
+description: "Development of a robust, reliable and multimodal AI system for the pain quantification"
+background: /assets/theme/images/header-img.png
 permalink: /projects/project_MM/
 ---
 
@@ -9,15 +9,13 @@ permalink: /projects/project_MM/
  
 ![image](/enabling/assets/theme/images/project_img.jpg)
 
-## Test_IMC
+## Motivation
 
-Resilient and collaborative robotic systems are a key technology in flexible intelligent production, logistics and medicine, which can lead to closely interlinked and potential-oriented cooperation with humans in the sense of complementary skills, but can also be used to substitute tasks and skills. The ENABLING project addresses the problem area of developing AI methods to complement the skills of robots and humans. It thus enables research innovations in the cross-sectional areas of IT and key enabling technologies and forms the basis for future applications in a mixed-skill environment in the lead markets. These include (1) cooperation between humans and robots in production or logistics and (2) monitoring applications in medicine, (3) intelligent assistance for preventive healthcare and therapies. The zones for interaction between humans and mobile robotic systems form complex mixed-skill environments. This is where intelligent, resilient collaboration becomes crucial, but is subject to strict requirements in terms of efficiency and safety measures as well as trustworthiness and acceptance. 
+Previous research works in the NIT working group resulted in many advacements and ai-based methods in the area of pain detection. However, recent advacements in machine learning and especially deep learning such as the usage of attention in foundation models allow to even improve the accuracy and the robustness pain detection. Further, since pain databases such as BioVid and X-ITE use a self report of the experienced pain as their ground truth, the resulting AI-based models could not be applicable to such patients that are unable to communicate/self-report their pain. Thus, it is nessecary to construct a second ground truh label for the X-ITE database, that is completely based on an expert report of the percieved pain based on the expression of the pain.
 
 ## Goals
 
-ENABLING is characterized by an innovative approach to a known problem of robotic systems using AI methods. The aim is to develop a resilient hybrid system with two application examples of the production cell and automatic gaze diagnostics as an assistance system that relieves workers and medical professionals of routine tasks. These applications demonstrate complex mixed-skill environments. There is no known competitor product and existing systems are only suitable for limited applications and cannot be used directly. The objectives of ENABLING can be extended to a wide range of applications, e.g. in logistics or for monitoring systems to record a variety of health conditions (robot assistance as a companion for people suffering from dementia in everyday situations).
-
- The project is funded by the European Regional Development Fund (ERDF) under grant No. ZS/2023/12/182056 and is planned with a project duration of 4 years (2024 to 2027).
+The aim of this project is to develop a robust and reliable pain detection system. This shall be achived by first improving on the previous findings of the NIT research works, which are still state of the art in pain detection. This can be achieved by applying new machine learning technologies to previous findings on the BioVid and X-ITE database and evaluating those again the state of the art models. Further an extensive study of the resulting models on the performance on the self-report against the new expert report labels of X-ITE should be conducted. Together with the real world data recorded in the postoperative IMC project, these models should then result in a robust pain detection system.
 
  
 ![image](/enabling/assets/theme/images/eu_kofinanziert380x55.jpg)

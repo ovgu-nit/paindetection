@@ -1,6 +1,6 @@
 ---
 title: Postoperative IMC
-description: "Multimodale KI-basierte Schmerzmessung bei Intermediate Care Patienten in der postoperativen Phase"
+description: "Multimodal AI-based pain measurement for intermediate care patients in the postoperative phase"
 background: /assets/theme/images/header-img.png
 permalink: /projects/project_IMC/
 ---
@@ -19,4 +19,4 @@ The research project consits of three major steps. First a new database has to b
 
 
  
-![image](/enabling/assets/theme/images/eu_kofinanziert380x55.jpg)
+![image](/paindetection_nit/assets/theme/images/ICU_rig_ulm.png)
