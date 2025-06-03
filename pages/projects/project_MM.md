@@ -7,7 +7,7 @@ permalink: /projects/project_MM/
 
 {: .alert .alert-warning}
  
-![image](/paindetection_nit/assets/theme/images/VAS_BPS.svg)
+![image](/paindetection_nit/assets/theme/images/VAS_BPS.png)
 
 ## Motivation
 
