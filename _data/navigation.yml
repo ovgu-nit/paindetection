@@ -10,6 +10,12 @@
     href: /projects/project_MM/
 - text: Team
   href: /team/
+- text: Datasets
+  menu:
+  - text: BioVid
+    href: /databases/biovid/
+  - text: X-ITE
+    href: /databases/xite/
 - text: Publications
   href: /publications/
 - text: News
