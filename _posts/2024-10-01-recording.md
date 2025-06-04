@@ -8,8 +8,12 @@ tags: [Ulm,News]
 
 ---
 
-## Start of the data recoriding in the Intermediate Cate Unit of the university hospital Ulm
+## Start of the data recording in the Intermediate Cate Unit of the university hospital Ulm
 
-In the end of September a team from the NIT visited the project partners at the university of ulm. Together with the colleagues from the medical pyschology a recording set up was constructed in the intermediate care unit under the supervision of Prof. Dr. med. Eberhard Barth. After some testing of the setup and a general introcution into the recording procedure, the first recordings were quickly done. In the tested version the setup now reliably records bio data (ECG, EDA and EMG of the frontalis) and two frontal videos over a duration of 24 hours. To solve the problem of having a contionous video independent of the while still not influencing the patients recovery in any harmful way, a mono camera with a near infrared camera with a near infrared light was employed. 
+At the end of September, a team from the NIT group visited the project partners at the University of Ulm. Together with colleagues from the Department of Medical Psychology, a recording setup was constructed in the intermediate care unit under the supervision of Prof. Dr. med. Eberhard Barth.
+
+After testing the setup and providing a general introduction to the recording procedure, the first recordings were quickly completed. In its tested configuration, the setup now reliably records physiological data (ECG, EDA, and frontalis EMG) as well as two frontal video streams over a 24-hour period.
+
+To ensure continuous video monitoring without interfering with the patients' recovery, a monochrome near-infrared (NIR) camera combined with an NIR light source was employed.
 
 ![](/paindetection_nit/assets/theme/images/ICU_rig_ulm_1.jpg)
