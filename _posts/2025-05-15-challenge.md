@@ -2,7 +2,7 @@
 title: X-ITE PAIN Challenge 2025
 description: X-ITE pain challenge at the international confrence on affective computing and intelligent interaction in Canberra, Australia
 background: /assets/theme/images/header-img.png
-image: /assets/theme/images/imhere.png
+image: /assets/theme/images/Xite_transpa3.png
 categories: [News]
 tags: [Conference,News,Challenge,XITE]
 
@@ -14,3 +14,4 @@ We are happy to announce the X-ITE pain challenge at the 2025 international conf
 
 Further information as well as the registration form can be doung [here](https://sites.google.com/view/xitepainchallenge/home)
 
+[]!(/paindetection_nit/assets/themes/XITE_challenge.png)

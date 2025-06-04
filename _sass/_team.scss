@@ -8,8 +8,8 @@
     width: 100px;
     
     img {
+      max-width: 100%;
       height: auto;
-      width: 150px;
       border: 3px solid $gray-200;
       border-radius: 0;
     }

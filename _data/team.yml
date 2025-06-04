@@ -1,7 +1,7 @@
 # Project team members listed below will appear on the /team page
 
 - name: Neuro-Information Technology Group, Otto-von-Guericke-Universität Magdeburg
-  role: Magdeburg # Will appear next to name
+  role: Magdeburg | Project Coordinator # Will appear next to name
   image: https://www.cd.ovgu.de/cd_media/CD_OVGU/Fakult%C3%A4tsmerkmale/Logo_Abbildungen/FEIT/Signet_FEIT_1-height-145-width-344.svg # Can be external link
   description: > # Can be Markdown
     The Neuro-Information Technology (NIT) group is located technically at the intersection of research fields multisensory information gathering and processing, human-machine interaction (HMI) and information perception. This involves at first the use of modern methods of information technology and pattern recognition for signal, image and video-based industrial and medical applications.
