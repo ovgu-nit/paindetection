@@ -14,4 +14,4 @@ We are happy to announce the X-ITE pain challenge at the 2025 international conf
 
 Further information as well as the registration form can be doung [here](https://sites.google.com/view/xitepainchallenge/home)
 
-[]!(/paindetection_nit/assets/theme/images/XITE_challenge.png)
+![](/paindetection_nit/assets/theme/images/XITE_challenge.png)

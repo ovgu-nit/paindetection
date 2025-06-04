@@ -1,15 +1,15 @@
-# ENABLING Project Website
+# Paindetection Project Website
 
-This is the website for the ENABLING (Resilient Human-Robot Collaboration in Mixed-Skill Environments) research project, funded by the European Regional Development Fund (ERDF).
+This is the website for the paindetection projects at NIT funded by the German research foundation (DFG).
 
 ## About the Project
 
-ENABLING addresses the development of AI methods to complement human and robot skills. The project focuses on:
+The pain detection projects at NIT focus on improving the pain detection with the goal of developing a reliant and robust system. This should be achieved by focusing on the following points:
 
-- Robust recording of affective user states
-- Semantic environment analysis  
-- Intention-based interpretation of user actions
-- Research into generative models for complex behavior
+- Improving state of the art models
+- Analysing further modalities
+- Comparison of self-report vs. expert report labels
+- Creating a real world dataset based on patients in the IMC after abdominal surgery
 
 ## Website Features
 
