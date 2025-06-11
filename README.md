@@ -1,4 +1,4 @@
-# Paindetection Project Website
+# Paindetection Projects Website
 
 This is the website for the paindetection projects at NIT funded by the German research foundation (DFG).
 
