@@ -5,11 +5,14 @@
 columns:
   - description:
     links:
-    - text: "apl. Prof. Dr.-Ing. habil. Ayoub Al-Hamadi"
+    - text: "Prof. Dr.-Ing. habil. Ayoub Al-Hamadi"
       href: https://www.ovgu.de/Al_Hamadi.html
       new_window: true
     - text: "Prof. Dr. biol. hum. Steffen Walter"
       href: https://www.uniklinik-ulm.de/psychosomatische-medizin-und-psychotherapie/forschung-sic/medizinische-psychologie/team/steffen-walter-1.html
+      new_window: true
+    - text: "Prof. Dr. med. Eberhard Barth"
+      href: https://www.uniklinik-ulm.de/anaesthesiologie-und-intensivmedizin/interdisziplinaere-operative-intensivmedizin-ioi.html
       new_window: true
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
