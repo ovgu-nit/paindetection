@@ -16,4 +16,4 @@ After testing the setup and providing a general introduction to the recording pr
 
 To ensure continuous video monitoring without interfering with the patients' recovery, a monochrome near-infrared (NIR) camera combined with an NIR light source was employed.
 
-![](/paindetection_nit/assets/theme/images/ICU_rig_ulm_1.jpg)
+![](/paindetection/assets/theme/images/ICU_rig_ulm_1.jpg)

@@ -7,7 +7,7 @@ permalink: /projects/project_MM/
 
 {: .alert .alert-warning}
  
-![image](/paindetection_nit/assets/theme/images/VAS_BPS.png)
+![image](/paindetection/assets/theme/images/VAS_BPS.png)
 
 ## Motivation
 
@@ -18,4 +18,4 @@ Previous research conducted by the NIT working group has led to significant adva
 The aim of this project is to develop a robust and reliable pain detection system. This will be achieved by building on previous findings from the NIT research group, which remain state-of-the-art in the field of pain detection. New machine learning technologies will be applied to these findings using the BioVid and X-ITE databases, and the resulting models will be evaluated against current state-of-the-art approaches. Furthermore, an extensive study will compare the model performance based on self-reported pain labels versus the newly created expert-labeled ground truth in the X-ITE database. Combined with real-world data from the postoperative IMC project, these efforts are expected to result in a highly robust and generalizable pain detection system.
 
  
-![image](/paindetection_nit/assets/theme/images/Mindmap_AI_MM.png)
+![image](/paindetection/assets/theme/images/Mindmap_AI_MM.png)

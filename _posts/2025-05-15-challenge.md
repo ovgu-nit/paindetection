@@ -17,4 +17,4 @@ The winners will be presented at the corresponding workshop at ACII 2025 in Canb
 
 Further information as well as the registration form can be found [here](https://sites.google.com/view/xitepainchallenge/home)
 
-![](/paindetection_nit/assets/theme/images/XITE_challenge.png)
+![](/paindetection/assets/theme/images/XITE_challenge.png)
