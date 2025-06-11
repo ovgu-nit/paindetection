@@ -7,7 +7,7 @@ permalink: /projects/project_IMC/
 
 {: .alert .alert-warning}
  
-![image](/paindetection_nit/assets/theme/images/flowchart_imc_pain_project.png)
+![image](/paindetection/assets/theme/images/flowchart_imc_pain_project.png)
 
 ## Motivation
 Previous projects at the NIT research group resulted in advacements in the area of pain monitoring through the creation of the datasets BioVid and X-ITE. These datasets are recorded in a laboratory environment with healthy patients that are fully oriented. This however may lead to a reality gap when AI-based models are trained on these and then applied to real world settings. Additionally, since the effective communication is alredy problematic with fully oriented patients, the problem gets even more severe with not fully oriented or non communicative patients. These can include sleeping or comatose patients, as well as patients with mental impairments such as Alzheimer's. Therefore, it is imperative to include such patients as a focus group to ensure that the pain monitoring system continues to work reliably and robustly even for these cases.
@@ -19,4 +19,4 @@ The research project consists of three main phases. First, a new database must b
 
 
  
-![image](/paindetection_nit/assets/theme/images/ICU_rig_ulm.png)
+![image](/paindetection/assets/theme/images/ICU_rig_ulm.png)
