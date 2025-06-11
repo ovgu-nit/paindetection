@@ -1,8 +1,7 @@
 # SITE SETTINGS
 title: PainDetection@NIT                       # Title in top navigation bar (navbar) and <head>
 author: NIT OVGU                    # Used for copyright statement in footer
-repository: rexolan0706/paindetection_nit
-baseurl: /paindetection_nit                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
+baseurl: /paindetection                  # Only required if your site is in a directory e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.com/petridish/markdown/#links
 
@@ -14,7 +13,7 @@ social:
   #twitter: twitter_username
   #linkedin: https://linkedin.com/company/project_name/
   #facebook: https://facebook.com/groups/group_id/
-  github: rexolan0706               # Can also be a github_username/repository
+  github: ovgu-nit               # Can also be a github_username/repository
   #disqus: disqus_sitename               # Enable Disqus comments from disqus_sitename.disqus.com
 
 # THEME SETTINGS (ALL OPTIONAL)
