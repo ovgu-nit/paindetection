@@ -12,10 +12,14 @@ description: Template for team page.
 {{ content }}
 
 {% for member in team %}
-  <h5 id="{{ member.subtext }}">
-    {{member.subtext}}
-  </h5>
-  <small class="text-muted">{{member.proj}}</small>
+  <div>
+    <h5 id="{{ member.subtext | strip | url_encode }}">
+      {{member.subtext}}
+    </h5>
+  </div>
+  <div>
+    <small class="text-muted">{{member.proj}}</small>
+  </div>
   <div class="d-flex team-member">
     <div class="flex-shrink-0 me-3">
       {% if member.image %}
