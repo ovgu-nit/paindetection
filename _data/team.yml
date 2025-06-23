@@ -15,13 +15,16 @@
   #github: github_username
   #email: name@example.com
 
+- name: In Cooperation with
+  role: Postoperative IMC & Multi Modal AI Modal
+
 - name: Section of medical psychology, University hospital Ulm
   role: Ulm
   image: https://www.uniklinik-ulm.de/fileadmin/default/Presse/UKU_Logo_RGB_Farbe_01.png
   description: >
     The subject of medical psychology is intended to sensitize future doctors' ability to perceive mental processes and influence them for the benefit of the patient. The subject areas of psychology as a whole are of great importance for explaining the development and treatment of somatic and mental illnesses. The main subjects of medical psychology include the doctor-patient relationship, dealing with the seriously ill and dying, coping with illness, cooperative relationships and conflicts in teamwork or the excessive demands placed on doctors. According to the licensing regulations, the subject of medical psychology is part of the first section of the medical examination (Physikum). © 2025 Medizinische Psychologie, Uni Ulm
 
-- name: Postoperative IMC
+- role: Postoperative IMC
 
 - name: Intensive Care Medicine, University hospital, Ulm
   role: Ulm
