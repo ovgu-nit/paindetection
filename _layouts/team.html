@@ -10,22 +10,26 @@ description: Template for team page.
 {% endif %}
 
 {{ content }}
-
 {% for member in team %}
-  <div>
-    <h5 id="{{ member.subtext | strip | url_encode }}">
-      {{member.subtext}}
-    </h5>
-  </div>
-  <div>
-    <small class="text-muted">{{member.proj}}</small>
-  </div>
   <div class="d-flex team-member">
     <div class="flex-shrink-0 me-3">
       {% if member.image %}
         <img src="{{ member.image | relative_url }}" alt="{{ member.name }}">
       {% endif %}
     </div>
+    <div class="flex-grow-1">
+    {% if member.subtext}
+    <div>
+      <h3 id="{{ member.subtext | strip | url_encode }}">
+        {{member.subtext}}
+      </h3>
+    </div>
+    {% endif %}
+    {% if member.proj %}
+    <div>
+      <small class="text-muted">{{member.proj}}</small>
+    </div>
+    {% endif %}
     <div>
       <h5 id="{{ member.name | strip | url_encode }}">
         {{ member.name }}
@@ -91,6 +95,7 @@ description: Template for team page.
           </li>
         {% endif %}
       </ul>
+    </div>
     </div>
   </div>
 {% endfor %}
