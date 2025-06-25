@@ -18,9 +18,9 @@ description: Template for team page.
     <div class="flex-grow-1">
         {% if member.subtext %}
         <div>
-            <h3 id="{{ member.subtext | strip | url_encode }}">
+            <h5 id="{{ member.subtext | strip | url_encode }}">
                 {{ member.subtext }}
-            </h3>
+            </h5>
         </div>
         {% endif %}
         {% if member.proj %}
